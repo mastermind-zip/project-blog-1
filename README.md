@@ -1,6 +1,10 @@
 # project-3-2
-
 This template should help get you started developing with Vue 3 in Vite.
+
+## Project Description
+Creator portfolio project. Simple layout created by using Vue(JS) + Firebase as a backend.
+You can create blogs, view images and info.
+
 
 ## Recommended IDE Setup
 
@@ -27,4 +31,4 @@ npm run dev
 ```sh
 npm run build
 ```
-# project-3-1
+
